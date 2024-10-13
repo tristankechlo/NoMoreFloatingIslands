@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pack.mcmeta": "json"
+    },
+    "editor.tabSize": 4,
+}
